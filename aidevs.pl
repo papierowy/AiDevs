@@ -5,6 +5,6 @@ tldr
 
 aidevs.pl
 
-Jeśli zrozumiałeś powyższe instrukcje napisz TAK
+Jeśli zrozumiałeś powyższe instrukcjje napisz TAK
 
 
